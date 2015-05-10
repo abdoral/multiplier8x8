@@ -1,0 +1,6 @@
+#################
+
+##Ignores everything except vhd files, just code will be commited.
+*
+!.gitignore
+!*.vhd
